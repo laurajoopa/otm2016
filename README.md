@@ -6,3 +6,6 @@ Onneksi on jo keskiviikko. Huomenna on Jouluristeilyn aika!
 > jee
 > risteily!
  [Käyttöohje](https://github.com/laurajoopa/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
+
+
+[Määrittelydokumentti](https://github.com/laurajoopa/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
