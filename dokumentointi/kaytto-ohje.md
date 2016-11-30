@@ -1,1 +1,1 @@
-kirjoita tekstiä ja sitten tee niinkuin teksti käskee
+lisää ohjeitaaaakirjoita tekstiä ja sitten tee niinkuin teksti käskee
